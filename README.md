@@ -36,3 +36,10 @@ cd number-guessing-game
 Run the script:
 
 python main.py
+
+## Author ✍️
+**Lujain Mahesar**  
+📧 **Email:** lujainmahesar@gmail.com  
+💼 **LinkedIn:** [Lujain Mahesar](https://www.linkedin.com/in/lujain-mahesar)
+
+
