@@ -27,7 +27,7 @@ pip install ttkbootstrap
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/Lujain-Mahesar/AI-Number-Guessing-Game
 ```
 
 Navigate to the folder:
