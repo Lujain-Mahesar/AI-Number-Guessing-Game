@@ -20,17 +20,25 @@ You will also need to install the following library:
 
 ```bash
 pip install ttkbootstrap
+```
+---
 
 # How to Run ▶️
 
-# Clone this repository:
+Clone this repository:
+```bash
 git clone https://github.com/your-username/number-guessing-game.git
+```
 
-# Navigate to the folder:
+Navigate to the folder:
+```bash
 cd number-guessing-game
+```
 
-# Run the script:
-python main.py```
+Run the script:
+```bash
+python main.py
+```
 
 
 ## Author ✍️
