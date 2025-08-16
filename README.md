@@ -35,7 +35,7 @@ cd number-guessing-game
 
 Run the script:
 
-python main.py
+python main.py\`\`\`
 
 ## Author ✍️
 **Lujain Mahesar**  
