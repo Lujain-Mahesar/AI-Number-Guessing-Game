@@ -21,7 +21,7 @@ You will also need to install the following library:
 ```bash
 pip install ttkbootstrap
 
-## How to Run ▶️
+How to Run ▶️
 
 Clone this repository:
 
